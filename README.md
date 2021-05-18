@@ -1,1 +1,1 @@
-[芒格](https://github.com/keylin/keylin.github.io/wiki/%E6%88%91%E7%9A%84wiki)
+[芒格](https://github.com/keylin/blog/blob/master/%E8%8A%92%E6%A0%BC.md)
