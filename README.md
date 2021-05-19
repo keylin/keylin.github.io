@@ -17,9 +17,10 @@
 <details>
   <summary>查理·芒格</summary>
   <ul>
-    <li><a href="/theme/查理·芒格演讲1.md" >查理·芒格演讲：一生抓住少数几个机会，够了！</a></li>
+    <li><a href="https://keylin.github.io/2021/%E6%9F%A5%E7%90%86%C2%B7%E8%8A%92%E6%A0%BC%E6%BC%94%E8%AE%B21.html" >查理·芒格演讲：一生抓住少数几个机会，够了！</a></li>
   </ul>
 </details>
+
 ## 文章
 
 `转载`*2021年01月14日* [查理·芒格演讲：一生抓住少数几个机会，够了！](/2021/查理·芒格演讲1.md)
