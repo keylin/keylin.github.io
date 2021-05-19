@@ -31,15 +31,15 @@
 <details>
   <summary>投资数据</summary>
   <ul>
-    <li><a href="http://114.115.232.154:8080/">中国宏观杠杆率</a></li>
-    <li><a href="https://8marketcap.com/">全球资产排名</a></li>
+    <li><a href="http://114.115.232.154:8080/" target="_blank">中国宏观杠杆率</a></li>
+    <li><a href="https://8marketcap.com/" target="_blank">全球资产排名</a></li>
   </ul>
 </details>
 
 <details>
   <summary>市场报告</summary>
   <ul>
-    <li><a href="http://www.pbc.gov.cn/rmyh/106866/index.html">中国人民银行</a></li>
+    <li><a href="http://www.pbc.gov.cn/rmyh/106866/index.html" target="_blank">中国人民银行</a></li>
   </ul>
 </details>
 
