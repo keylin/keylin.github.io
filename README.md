@@ -26,11 +26,13 @@
 
 [查理·芒格演讲：一生抓住少数几个机会，够了！](/theme/查理·芒格演讲1.md)
 
-### 导航
+### 网站导航
 
 <details>
   <summary>投资数据</summary>
   <ul>
     <li><a href="http://114.115.232.154:8080/">中国宏观杠杆率</a></li>
+    <li><a href="https://8marketcap.com/">全球资产排名</a></li>
   </ul>
 </details>
+
