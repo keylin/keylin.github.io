@@ -28,5 +28,8 @@
 
 ### 导航
 
+<details>
+  <summary>投资数据</summary>
 [中国宏观杠杆率](http://114.115.232.154:8080/)
+</details>
 
