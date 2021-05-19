@@ -1,3 +1,27 @@
+### 导航
+
+<details>
+  <summary>投资数据</summary>
+  <ul>
+    <li><a href="http://114.115.232.154:8080/" target="_blank">中国宏观杠杆率</a></li>
+    <li><a href="https://8marketcap.com/" target="_blank">全球资产排名</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>市场报告</summary>
+  <ul>
+    <li><a href="http://www.pbc.gov.cn/rmyh/106866/index.html" target="_blank">中国人民银行</a></li>
+  </ul>
+</details>
+## 主题
+
+#### 查理·芒格
+
+`转载`[查理·芒格演讲：一生抓住少数几个机会，够了！](/theme/查理·芒格演讲1.md)
+
+## 文章
+
 `原创`*2019年01月01日* [中国近代史-蒋廷黻](/2019/中国近代史.md)
 
 -----
@@ -21,25 +45,4 @@
 `原创`*2016年05月01日* [比特币](/2016/比特币.md)
 
 ------
-
-### 查理·芒格
-
-`转载`[查理·芒格演讲：一生抓住少数几个机会，够了！](/theme/查理·芒格演讲1.md)
-
-### 网站导航
-
-<details>
-  <summary>投资数据</summary>
-  <ul>
-    <li><a href="http://114.115.232.154:8080/" target="_blank">中国宏观杠杆率</a></li>
-    <li><a href="https://8marketcap.com/" target="_blank">全球资产排名</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>市场报告</summary>
-  <ul>
-    <li><a href="http://www.pbc.gov.cn/rmyh/106866/index.html" target="_blank">中国人民银行</a></li>
-  </ul>
-</details>
 
