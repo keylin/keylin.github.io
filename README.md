@@ -1,5 +1,4 @@
-### 导航
-
+## 导航
 <details>
   <summary>投资数据</summary>
   <ul>
@@ -15,10 +14,12 @@
   </ul>
 </details>
 ## 主题
-
-#### 查理·芒格
-
-`转载`[查理·芒格演讲：一生抓住少数几个机会，够了！](/theme/查理·芒格演讲1.md)
+<details>
+  <summary>查理·芒格</summary>
+  <ul>
+    <li><a href="/theme/查理·芒格演讲1.md" >查理·芒格演讲：一生抓住少数几个机会，够了！</a></li>
+  </ul>
+</details>
 
 ## 文章
 
