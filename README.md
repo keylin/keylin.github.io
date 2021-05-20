@@ -1,4 +1,9 @@
+```
+解放思想，实事求是！
+```
+
 ## 导航
+
 <details>
   <summary>投资数据</summary>
   <ul>
