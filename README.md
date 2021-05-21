@@ -1,5 +1,5 @@
 ```
-解放思想，实事求是！
+解放思想，实事求是！Don’t think you are, know you are!
 ```
 
 ## 导航
