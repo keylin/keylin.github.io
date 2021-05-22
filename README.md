@@ -35,9 +35,18 @@
      <li><a href="https://keylin.github.io/2021/美团王兴演讲.html" >王兴：你对未来越有信心，对现在越有耐心</a></li>
   </ul>
 </details>
-
+<details>
+  <summary>观点</summary>
+  <ul>
+    <li><a href="https://keylin.github.io/2021/让储蓄成为储蓄.html" >比特币：让储蓄成为储蓄</a></li>
+  </ul>
+</details>
 
 ## 文章
+
+`转载`*2021年05月22日* [让储蓄成为储蓄](/2021/让储蓄成为储蓄.md)
+
+-----
 
 `转载`*2021年05月22日* [你对未来越有信心，对现在越有耐心](/2021/美团王兴演讲.md)
 
