@@ -2,8 +2,8 @@
 解放思想，实事求是！Don’t think you are, know you are!
 ```
 
-
 ## 主题
+
 <details>
   <summary>人物</summary>
   <ul>
