@@ -16,8 +16,10 @@
   <summary>观点</summary>
   <ul>
     <li><a href="https://keylin.github.io/2021/让储蓄成为储蓄.html" >比特币：让储蓄成为储蓄</a></li>
+    <li><a href="https://keylin.github.io/2021/复利的谎言.html" >复利的谎言</a></li>
   </ul>
 </details>
+
 ## 文章
 
 `转载`*2021年05月26日* [复利的谎言](/2021/复利的谎言.md)
