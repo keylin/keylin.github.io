@@ -10,6 +10,7 @@
   <summary>人物</summary>
   <ul>
     <li><a href="https://keylin.github.io/2021/查理·芒格演讲.html" >查理·芒格：一生抓住少数几个机会，够了！</a></li>
+    <li><a href="https://keylin.github.io/2021/芒格思维模型.html" >查理·芒格：持续优化思维模型</a></li>
     <li><a href="https://keylin.github.io/2021/美团王兴演讲.html" >王兴：你对未来越有信心，对现在越有耐心</a></li>
     <li><a href="https://keylin.github.io/2021/李录分享.html" >李录：投资是一个发现自己的过程</a></li>
   </ul>
@@ -22,7 +23,12 @@
   </ul>
 </details>
 
+
 ## 文章
+
+`转载`*2021年05月28日* [芒格思维模型](/2021/芒格思维模型.md)
+
+------
 
 `转载`*2021年05月26日* [复利的谎言](/2021/复利的谎言.md)
 
